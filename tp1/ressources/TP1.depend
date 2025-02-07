@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1738917117 source:c:\users\user\desktop\tp1\ressources\main_capteurs.cpp
+	<iostream>
+	"Classe_capteurs.h"
+
+1738917597 c:\users\user\desktop\tp1\ressources\classe_capteurs.h
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<string>
+	<vector>
+
+1738917475 source:c:\users\user\desktop\tp1\ressources\classe_capteurs.cpp
+	"Classe_capteurs.h"
+	<cmath>
+
