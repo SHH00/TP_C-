@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1738924640 source:c:\users\user\desktop\tp3\classe_infra.cpp
+	"Classe_infra.h"
+
+1738838827 c:\users\user\desktop\tp3\classe_infra.h
+	"Classe_derived.h"
+
+1738659042 c:\users\user\desktop\tp3\classe_derived.h
+	"Classe_capteurs.h"
+
+1738830613 c:\users\user\desktop\tp3\classe_capteurs.h
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<string>
+	<vector>
+
+1738924855 source:c:\users\user\desktop\tp3\main_infra.cpp
+	<iostream>
+	"Classe_infra.h"
+
+1738834034 source:c:\users\user\desktop\tp3\classe_capteurs.cpp
+	"Classe_capteurs.h"
+	<cmath>
+
+1738834280 source:c:\users\user\desktop\tp3\classe_derived.cpp
+	"Classe_derived.h"
+
